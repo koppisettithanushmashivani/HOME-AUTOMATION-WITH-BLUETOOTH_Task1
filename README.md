@@ -7,7 +7,7 @@
 **BATCH DURATION**:DECEMBER 17th, 2025 TO FEBURARY 17th, 2025
 **MENTOR NAME**:NEELA SANTOSH KUMAR
 
-# DESCRIPTION OF TASK
+# DESCRIPTION OF THE TASK
 
 OBJECTIVE:
    The primary objective of this project is to design and implement a Bluetooth-controlled home automation system that allows users to remotely switch household devices on and off using their smartphones or other Bluetooth-enabled devices. This system aims to provide a cost-effective, user-friendly, and energy-efficient solution for managing home appliances, enhancing convenience, and improving the overall quality of life. By leveraging Bluetooth technology, the system ensures reliable short-range communication without requiring internet connectivity, making it an ideal choice for users in areas with limited or no access to Wi-Fi. This project demonstrates how modern technology can be seamlessly integrated into everyday life, offering a practical step toward smarter, automated homes.
