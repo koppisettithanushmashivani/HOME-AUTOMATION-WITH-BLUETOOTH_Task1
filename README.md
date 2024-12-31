@@ -46,7 +46,7 @@ Analyze the performance and identify areas for future improvement or scaling the
 
 CIRCUIT DIAGRAM OF THE PROJECT:https://github.com/koppisettithanushmashivani/HOME-AUTOMATION-WITH-BLUETOOTH_Task1/commit/b0b7524f3577299b89572ae20ac364ea9d4c8516
 
-
+BLOCK DIAGRAM OF THE PROJECT:https://github.com/koppisettithanushmashivani/HOME-AUTOMATION-WITH-BLUETOOTH_Task1/commit/43067867140f3512985cb3abdc1a4f21eda248d6
 
 SOURCE CODE OF THE PROJECT:
 #include <LiquidCrystal.h>
