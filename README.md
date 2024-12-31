@@ -44,7 +44,9 @@ Showcase the system's features, such as device control, responsiveness, and ener
 Document the project details, including system design, implementation steps, and challenges faced.
 Analyze the performance and identify areas for future improvement or scaling the system.
 
-CIRCUIT DIAGRAM OF THE PROJECT:
+CIRCUIT DIAGRAM OF THE PROJECT:https://github.com/koppisettithanushmashivani/HOME-AUTOMATION-WITH-BLUETOOTH_Task1/commit/b0b7524f3577299b89572ae20ac364ea9d4c8516
+
+BLOCK DIAGRAM OF THE PROJECT:
 
 SOURCE CODE OF THE PROJECT:
 #include <LiquidCrystal.h>
